@@ -1,0 +1,57 @@
+{
+	"first_name": "John",
+	"last_name": "Doe",
+	"age":12,
+	"favorites":{
+		"books":[{}, {}, {}],
+		"movies"[{"title": "Hunger Games", "actors":[{"first_name":"Jennifer"}, {}];}, {}, {}]
+		},
+	"address":{
+		"street_number":1102,
+		"city": "Quezon City",
+		"region": "NCR"
+	}
+	"orders":[
+	{"item":"Shoes","price":500},
+	{"item": "Shirts", "price":250},
+	{"item:"Swords", "price":1000}
+	]
+},
+{
+	"first_name": "Foo",
+	"last_name": "Bar",
+	"age":12,
+	"favorites":{
+		"books":[{}, {}, {}],
+		"movies"[{"title": "Hunger Games", "actors":[{"first_name":"Jennifer"}, {}];}, {}, {}]
+		},
+	"address":{
+		"street_number":1102,
+		"city": "Quezon City",
+		"region": "NCR"
+	}
+	"orders":[
+	{"item":"Shoes","price":500},
+	{"item": "Shirts", "price":250},
+	{"item:"Swords", "price":1000}
+	]
+},
+{
+	"first_name": "Juan",
+	"last_name": "dela Cruz",
+	"age":12,
+	"favorites":{
+		"books":[{}, {}, {}],
+		"movies"[{"title": "Hunger Games", "actors":[{"first_name":"Jennifer"}, {}];}, {}, {}]
+		},
+	"address":{
+		"street_number":1102,
+		"city": "Quezon City",
+		"region": "NCR"
+	}
+	"orders":[
+	{"item":"Shoes","price":500},
+	{"item": "Shirts", "price":250},
+	{"item:"Swords", "price":1000}
+	]
+}
