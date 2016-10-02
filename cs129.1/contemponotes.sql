@@ -156,4 +156,5 @@ SELECT info -> 'city' FROM customers;
 --
 SELECT * FROM customers c, json_array_elements(c.info->'orders');
 --give me all the results fro the customer table where from the info column i am expecting a key in info called orders, and use elem to represent that 'item' with the key item
+
 SELECT * FROM customers c, json_array_elements(c.info->'orders') AS elem where elem->>'item'='Pen';
